@@ -27,4 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-raut&show_icons=true&locale=en&layout=compact" alt="rohan-raut" /></p>
 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-raut&show_icons=true&locale=en" alt="rohan-raut" /></p>
