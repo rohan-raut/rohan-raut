@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-raut&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-raut" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📝 I regularly write articles on [https://cybercage.in](https://cybercage.in)
@@ -27,5 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan-raut&show_icons=true&locale=en&layout=compact" alt="rohan-raut" /></p>
 
-<hr/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-raut&show_icons=true&locale=en" alt="rohan-raut" /></p>
+
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
