@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohan Raut</h1>
-<h3 align="center">A passionate web developer from India</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;A+Passionate+Web+Developer&center=true&width=500&height=50"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-raut&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-raut" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
