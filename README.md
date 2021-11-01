@@ -22,7 +22,7 @@
 
 <h3 align="left">Summary:</h3>
 <p>Ever since I was a little kid, software development has been my passion. It all started when I was 12 years old, I used to make animated videos using Macromedia Flash. Then after 2 years I made my first website using HTML, CSS and JavaScript. Being so passionate and willing to learning many things in computer, I won an award of “Computer Excellence” by Shri Navin Nikalje in my School time.</p>
-<p>This passion carried me through my education at Marathwada Mitra Mandal’s Institute of Technology, Pune. Here there are many resources available that I could thought as a kid. I studied many languages, data structures, algorithms, compilers, operating system, framework and many more things. From simple programs of writing “Hello World!!”, I started learning and building big projects.</p>
+<p>This passion carried me through my education at Marathwada Mitra Mandal’s Institute of Technology, Pune. Here there are many resources available that I couldn't imagined as a kid. I studied many languages, data structures, algorithms, compilers, operating system, framework and many more things. From simple programs of writing “Hello World!!”, I started learning and building big projects.</p>
 <p>So, now, in industry, this passion remains with me. There’s certainly yet more to learn, yet more problems to solve, yet more things to explore and yet more to build. And for this, I am very grateful.</p>
 
 
